@@ -7,7 +7,7 @@
 
    Payment Form Script
    
-   Author: 
+   Author: Dajah Medina 4.11.19
    Date:   
    
    Filename: co_payment.js
@@ -43,4 +43,3 @@
       Returns true of idNum satisfies the Luhn Algorithm
 
 */
-
